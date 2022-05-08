@@ -8,3 +8,23 @@ totalbidan_opendata <- read_csv("https://raw.githubusercontent.com/seliyani19/Da
 
 #Mengubah long format-wide format
 bd_opendata = spread(totalbidan_opendata,tahun,jumlah_bidan)
+
+#subsetting observations
+#with operator >, <, >=, <=, ==, !=,
+#memilih berdasarkan range urutan observasi/baris data bidan tahun 2020
+bd_2020 = slice(totalbidan_opendata, 109:135)
+
+names(bd_2020)
+glimpse(bd_2020)
+str(bd_2020)
+summary(bd_2020)
+
+names(bd_opendata)
+glimpse(bd_opendata)
+str(bd_opendata)
+summary(bd_opendata)
+
+names(totalbidan_opendata)
+glimpse(totalbidan_opendata)
+str(totalbidan_opendata)
+summary(totalbidan_opendata)
