@@ -6,4 +6,7 @@ Data bidan di Jawa Barat berdasarkan kota/kabupaten, di akses di https://opendat
 Data jumlah kematian ibu berdasarkan kelompok usia di Jawa Barat tahun 2019, diakses di https://opendata.jabarprov.go.id/id/dataset/jumlah-kematian-ibu-berdasarkan-kelompok-umur-di-jawa-barat pada tanggal 23-5-2022 jam 09.45 WIB
 
 3. kematianibujabar
-4. Data jumlah kematian ibu di Jabar tahun 2019
+Data jumlah kematian ibu di Jabar tahun 2019
+
+4. kelahiranbayijabar
+Data jumlah kelahiran berdasarkan status kelahiran di Jawa Barat tahun 2012-2020, diakses di https://opendata.jabarprov.go.id/id/dataset/jumlah-kelahiran-bayi-berdasarkan-status-kelahiran-dan-jenis-kelamin-di-jawa-barat pada tanggal 23-5-2022 jam 10.30
